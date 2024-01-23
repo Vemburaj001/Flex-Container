@@ -1,0 +1,125 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+    background-color:black;
+   position:fixed;
+   width: 100%;
+   top: 0px;
+   left: 0;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+a:hover{
+    color: yellow;
+}
+
+.container1{
+    background-color: aquamarine;
+    display: flex;
+    height: 600px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+
+#box1{
+    display: flex;
+   background-color: yellow;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+    align-items: center;
+}
+
+
+
+
+
+.container2{
+    background-color: chartreuse;
+    display: flex;
+    height:600px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+#box2{
+    display: flex;
+    background-color: chocolate;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+    align-items: center;
+}
+
+.container3{
+    background-color: brown;
+    display: flex;
+    height:600px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+#box3{
+    display: flex;
+    background-color: burlywood;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+    align-items: center;
+}
+
+
+.container4{
+    background-color: darkseagreen;
+    display: flex;
+    height:600px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#box4{
+    display: flex;
+    background-color: darkslateblue;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+    align-items: center;
+}
+
+.container5{
+    background-color: dodgerblue;
+    display: flex;
+    height:600px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#box5{
+    display: flex;
+    background-color: goldenrod;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+    align-items: center;
+}
+
+
